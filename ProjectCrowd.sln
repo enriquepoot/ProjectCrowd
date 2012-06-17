@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCrowd", "ProjectCrowd.csproj", "{173BD8B4-C3F2-4892-BA85-929CB38A9335}"
+Project("{C8D11400-126E-41CD-887F-60BD40844F9E}") = "ProjectCrowd.Database", "ProjectCrowd.Database\ProjectCrowd.Database.dbproj", "{6CA2EC70-732B-4918-80BF-1B50E514E914}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{173BD8B4-C3F2-4892-BA85-929CB38A9335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{173BD8B4-C3F2-4892-BA85-929CB38A9335}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{173BD8B4-C3F2-4892-BA85-929CB38A9335}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{173BD8B4-C3F2-4892-BA85-929CB38A9335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA2EC70-732B-4918-80BF-1B50E514E914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA2EC70-732B-4918-80BF-1B50E514E914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA2EC70-732B-4918-80BF-1B50E514E914}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6CA2EC70-732B-4918-80BF-1B50E514E914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA2EC70-732B-4918-80BF-1B50E514E914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA2EC70-732B-4918-80BF-1B50E514E914}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
